@@ -1,7 +1,7 @@
 # hospital-api
 API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients.
 
-Setup the Project
+<h3>Setup the Project</h3>
 Clone or Download the Repo.
 cd covid19-api goto the Repo using Terminal.
 Run mongod to start the MongoDB Database.
