@@ -2,12 +2,15 @@
 API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients.
 
 <h3>Setup the Project</h3>
+<br>
 Clone or Download the Repo.
 cd covid19-api goto the Repo using Terminal.
 Run mongod to start the MongoDB Database.
 Run npm start to ignite the project.
 Use Postman to test the api.
-Routes
+<br>
+<h3>Routes</h3>
+<br>
 Register a Doctor: [POST]: /api/v1/doctors/register
 Login for Doctor: [POST]: /api/v1/doctors/login
 Register a patient: [POST]: /api/v1/patients/register
